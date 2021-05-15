@@ -34,10 +34,6 @@ Implemented using *Depth First Search* Algorithm
 - **Airport Code Suggestor**  
     ![](https://i.imgur.com/faqyjrd.png)
 
-- **Password protected Admin Panel**  
-    ![](https://i.imgur.com/o2x750h.png)  
-    ![](https://i.imgur.com/RCCr5YJ.png)  
-
 - **Multi Leg Flights**  
     ![](https://i.imgur.com/PfIl139.png)
 
