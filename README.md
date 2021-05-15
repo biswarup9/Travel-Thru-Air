@@ -1,9 +1,3 @@
-Internet Technology Lab : Assignment 3 Report
----
-Name: *Rohit Rajat Chattopadhyay*  
-Roll: *001710501073*  
-Date: *23rd November, 2020*  
-Batch: *A3*  
 
 ## Problem Statement
 Implement a web application for *Travel Thru Air* using servlets to support the following two use cases
