@@ -15,7 +15,7 @@ State and explain why and where you have used design patterns.
 The Deals and Flights are stored in CSV format and can be modified using the Admin Management panel
 
 ### User Interface
-![](https://imgur.com/K2BYtg7)
+![](https://i.imgur.com/K2BYtg7)
 
 ### Search Algorithm
 Implemented using *Depth First Search* Algorithm  
