@@ -10,7 +10,7 @@ State and explain why and where you have used design patterns.
 **Class Diagram**  
 ![](https://i.imgur.com/vQaQPXq.png)  
 **Servlet**  
-![](blob:https://imgur.com/28043742-2680-42cb-95ef-a6356ba55f63)
+![](https://i.imgur.com/2gm505D.png)
 
 The Deals and Flights are stored in CSV format and can be modified using the Admin Management panel
 
